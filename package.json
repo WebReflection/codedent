@@ -1,6 +1,6 @@
 {
   "name": "codedent",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A dedent alternative for just code",
   "main": "./cjs/index.js",
   "scripts": {
@@ -19,11 +19,11 @@
   "author": "Andrea Giammarchi",
   "license": "ISC",
   "devDependencies": {
-    "@rollup/plugin-node-resolve": "^15.2.1",
-    "@rollup/plugin-terser": "^0.4.3",
-    "ascjs": "^6.0.2",
-    "c8": "^8.0.1",
-    "rollup": "^3.28.1"
+    "@rollup/plugin-node-resolve": "^16.0.3",
+    "@rollup/plugin-terser": "^1.0.0",
+    "ascjs": "^6.0.3",
+    "c8": "^11.0.0",
+    "rollup": "^4.62.2"
   },
   "module": "./esm/index.js",
   "type": "module",
