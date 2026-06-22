@@ -1,6 +1,6 @@
 {
   "name": "codedent",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A dedent alternative for just code",
   "main": "./cjs/index.js",
   "scripts": {
